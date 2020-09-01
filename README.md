@@ -43,7 +43,7 @@ The model can still be improved to produce more realistic images, by getting mor
 
 #### Some Parameters Involved :
 * Epochs - 100
-* Adam Optimizer with learning rate 0.0001, beta_1 = 0.5
+* Adam Optimizer with learning rate 0.0002, beta_1 = 0.5
 * Batch Size - 128
 * Output Size - (32 x 32 x 3)
 
